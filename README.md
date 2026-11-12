@@ -2,6 +2,12 @@
 
 ### 21 Lessons teaching everything you need to know to start building Generative AI applications
 
+> **Reference-copy note — JDKristenson:** This repository preserves Microsoft's Generative AI for Beginners curriculum; it is not presented as an independently authored application. Start with the [local setup guide](./docs/reference-copy-setup.md?WT.mc_id=academic-105485-koreyst), [provenance and verified-work ledger](./docs/reference-copy.md?WT.mc_id=academic-105485-koreyst), and [editable curriculum/provider/data map](./images/curriculum-boundaries.excalidraw?WT.mc_id=academic-105485-koreyst). The upstream course, translations, credits, licenses and governance below remain intact.
+
+![Curriculum, local samples, external providers and data-review boundaries; conceptual map, not a deployed system.](./images/curriculum-boundaries.svg?WT.mc_id=academic-105485-koreyst)
+
+[Map text alternative and editing instructions](./docs/reference-copy.md?WT.mc_id=academic-105485-koreyst#curriculum-provider-and-data-map)
+
 [![GitHub license](https://img.shields.io/github/license/microsoft/Generative-AI-For-Beginners.svg)](https://github.com/microsoft/Generative-AI-For-Beginners/blob/master/LICENSE?WT.mc_id=academic-105485-koreyst)
 [![GitHub contributors](https://img.shields.io/github/contributors/microsoft/Generative-AI-For-Beginners.svg)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/graphs/contributors/?WT.mc_id=academic-105485-koreyst)
 [![GitHub issues](https://img.shields.io/github/issues/microsoft/Generative-AI-For-Beginners.svg)](https://GitHub.com/microsoft/Generative-AI-For-Beginners/issues/?WT.mc_id=academic-105485-koreyst)
